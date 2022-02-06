@@ -5,7 +5,7 @@ sermonNotes2022.log
 sermonNotes2022.out
 sermonNotes2022.synctex.gz
 sermonNotes2022.toc
-2022January/sermon1.aux
-2022January/sermon2.aux
 sermonX.tex
-2022January/sermon2.tex
+*.aux
+2022January/*.aux
+2022February/*.aux
