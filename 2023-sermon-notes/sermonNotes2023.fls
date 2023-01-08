@@ -713,6 +713,9 @@ INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-no
 INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon1.aux
 INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon1.aux
 INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon1.aux
+INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon2.aux
+INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon2.aux
+INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon2.aux
 OUTPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/sermonNotes2023.aux
 INPUT c:/texlive/2020/texmf-dist/tex/latex/fourier/fmlfutm.fd
 INPUT c:/texlive/2020/texmf-dist/tex/latex/fourier/fmlfutm.fd
@@ -893,12 +896,61 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/futb8r.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/fourier-alt-bold.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/public/fourier/futr8c.vf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/fourier-orns.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/vf/public/fourier/futsy.vf
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/fourier-ms.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/fourier-mcl.tfm
+INPUT ./01-2022January/sermon2.tex
+INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon2.tex
+INPUT ./01-2022January/sermon2.tex
+INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon2.tex
+INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon2.tex
+OUTPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon2.aux
+INPUT ./01-2022January/sermon2.tex
+INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon2.tex
+INPUT ./01-2022January/sermon2.tex
+INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon2.tex
+INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon2.tex
+INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon2.tex
+INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon2.tex
+INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon2.tex
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/futri8t.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/vf/public/fourier/futri8t.vf
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/futri8r.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fourier/fourier-alt-ita.tfm
 INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/sermonNotes2023.aux
 INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon1.aux
 INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon1.aux
 INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon1.aux
+INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon2.aux
+INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon2.aux
+INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon2.aux
 INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/sermonNotes2023.out
 INPUT c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/sermonNotes2023.out
 INPUT c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb

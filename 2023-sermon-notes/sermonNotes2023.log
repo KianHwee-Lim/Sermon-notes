@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.11.25)  2 JAN 2023 14:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.11.25)  8 JAN 2023 09:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -558,7 +558,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
- (c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/sermonNotes2023.aux (c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon1.aux))
+ (c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/sermonNotes2023.aux (c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon1.aux) (c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon2.aux))
 \openout1 = `sermonNotes2023.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
@@ -728,7 +728,7 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 \openout2 = `./01-2022January/sermon1.aux'.
 
  (c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon1.tex
-LaTeX Font Info:    Trying to load font information for TS1+futs on input line 8.
+LaTeX Font Info:    Trying to load font information for TS1+futs on input line 13.
  (c:/texlive/2020/texmf-dist/tex/latex/fourier/ts1futs.fd
 File: ts1futs.fd 2003/09/14 Fontinst v1.801 font definitions for TS1/futs.
 )
@@ -736,25 +736,45 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `futs' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-) [2
+ [2
 
-] (c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/sermonNotes2023.aux (c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon1.aux))
+]
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 46.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 46.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 46.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 46.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 46.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 46.
+) [3]
+\openout2 = `./01-2022January/sermon2.aux'.
+
+ (c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon2.tex [4
+
+
+
+]) [5] (c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/sermonNotes2023.aux (c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon1.aux) (c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/./01-2022January/sermon2.aux))
 Package rerunfilecheck Info: File `sermonNotes2023.out' has not changed.
-(rerunfilecheck)             Checksum: B7D4CFF3C1023B7DAE071D5705B1E0B9;73.
+(rerunfilecheck)             Checksum: 1F7F235243C9C7819C885E01B6EA4992;225.
  ) 
 Here is how much of TeX's memory you used:
- 12763 strings out of 479485
- 189749 string characters out of 5875915
- 586285 words of memory out of 5000000
- 29425 multiletter control sequences out of 15000+600000
- 593202 words of font info for 102 fonts, out of 8000000 for 9000
+ 12972 strings out of 479485
+ 192853 string characters out of 5875915
+ 594952 words of memory out of 5000000
+ 29478 multiletter control sequences out of 15000+600000
+ 625964 words of font info for 230 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,6n,86p,1156b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2020/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb>
-Output written on "c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/sermonNotes2023.pdf" (2 pages, 32539 bytes).
+ 80i,6n,86p,1211b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb><c:/texlive/2020/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
+Output written on "c:/Users/Kian Hwee/Desktop/Github_repositories/Sermon-notes/2023-sermon-notes/sermonNotes2023.pdf" (5 pages, 67020 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
- 24073 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 66 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
+ 31249 words of extra memory for PDF output out of 35830 (max. 10000000)
 
