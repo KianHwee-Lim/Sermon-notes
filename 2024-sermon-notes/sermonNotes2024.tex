@@ -1,0 +1,88 @@
+\documentclass[12pt, a4paper]{article} %possible sizes are 10,11,12
+\title{Sermon Notes 2024}
+\author{Kian Hwee}
+%To input the current time
+\usepackage[nodate, 12hr]{datetime}
+\date{\small Last updated: \today, \currenttime} %leave blank if dont want date
+
+%Packages for paper formatting, figures, hyperref, etc
+\usepackage{microtype}
+\usepackage{geometry} %package to adjust the margins n shit of the paper
+\geometry{a4paper, margin = 2cm, top = 2cm, bottom = 2cm}
+\usepackage{xcolor}
+\usepackage{parskip} %package to tweak paragraph skipping
+\usepackage[space]{grffile} %For file names with spaces
+\usepackage{graphicx}
+%\graphicspath{{./Figures/}}
+\usepackage{chngcntr}
+% \counterwithin{figure}{section}
+%\counterwithin{footnote}{section}
+\usepackage{float}
+\usepackage{comment} 
+\usepackage{wrapfig}
+\setcounter{tocdepth}{2}
+%\setlength{\parskip}{0.1cm} %to set the line spacing between paragraphs. I.e,
+%how compact shit should be. Also affects the list environment.
+\PassOptionsToPackage{hyphens}{url}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+    colorlinks,
+    linkcolor={blue!50!black},
+    citecolor={blue!50!black},
+    urlcolor={blue!80!black}
+}
+%For quotation marks to behave well
+\usepackage{csquotes}
+\MakeOuterQuote{"}
+
+%Blind text
+\usepackage[english]{babel}
+\usepackage{blindtext}
+\blindmathtrue
+
+%Math packages
+\usepackage{amsmath}
+\usepackage{amssymb}
+\numberwithin{equation}{section} %numbers equations according to sections
+%\allowdisplaybreaks %equations in environment can page break
+\usepackage{physics}
+\usepackage{amsthm}
+\usepackage{xcolor}
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}[section]
+\theoremstyle{remark}
+\newtheorem{corollary}{Corollary}[theorem]
+\theoremstyle{plain}
+\newtheorem{lemma}[theorem]{Lemma}
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[section]
+\theoremstyle{remark}
+\newtheorem*{remark}{Remark}
+% \graphicspath{./Figures}
+%Alternate fonts 
+% \usepackage{newtxtext,newtxmath} %this is good
+\usepackage{fourier} %this is good
+% \usepackage{newpxtext,newpxmath} %this is good
+%The rest are...meh
+% \usepackage{libertine,libertinust1math} %this is quite good
+% \usepackage{fouriernc} %this is quite good
+% \usepackage{mathptmx} %looks quite bad
+%For new look
+% \usepackage{newpxtext} \usepackage[euler-digits]{eulervm} %looks disgusting
+\newcommand{\KH}[1]{{\color{pink} #1}}
+
+\setcounter{secnumdepth}{0}
+
+\begin{document}
+  \maketitle
+  \section*{Foreword}
+    Herein contains my summary of the sermons for 2024.  These sermons notes
+    are mostly typed out during the sermon as the pastor preaches.  Sometimes
+    I will add in some of my own clarifications/notes/thoughts to the points
+    given by the pastors, hence one can safely assume that any theological
+    errors found herein are to be attributed to me, not the pastors. 
+  \tableofcontents %optional
+  \include{./01-2024January/sermon1}
+\end{document}
+
+
